@@ -1,0 +1,55 @@
+{
+    "user": [
+       {
+          "id":"01",
+          "name": "test1",
+          "age": "11",
+          "gender": "male",
+          "email" : "test1@gmail.com",
+          "phoneNo" : "9415346313"
+       },
+     
+       {
+        "id":"02",
+        "name": "test2",
+        "age": "21",
+        "gender": "male",
+        "email" : "test2@gmail.com",
+        "phoneNo" : "9415346312"
+       },
+
+       {
+        "id":"03",
+        "name": "test3",
+        "age": "31",
+        "gender": "male",
+        "email" : "test3@gmail.com",
+        "phoneNo" : "9415346313"
+       },
+
+       {
+        "id":"04",
+        "name": "test4",
+        "age": "41",
+        "gender": "male",
+        "email" : "test4@gmail.com",
+        "phoneNo" : "9415346314"
+       },
+       {
+        "id":"05",
+        "name": "test5",
+        "age": "51",
+        "gender": "male",
+        "email" : "test5@gmail.com",
+        "phoneNo" : "9415346315"
+       },
+       {
+        "id":"06",
+        "name": "test6",
+        "age": "61",
+        "gender": "male",
+        "email" : "test6@gmail.com",
+        "phoneNo" : "9415346316"
+       }
+    ]
+ }
